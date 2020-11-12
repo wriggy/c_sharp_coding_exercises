@@ -33,11 +33,11 @@ namespace TechReturners.Exercises
             return "oof";
         }
 
-        public static int CountLinuxUsers(List<User> users) 
-        {
-            // Add your code here!
-            // throw new NotImplementedException();
-            return 0;
-        }
+        // public static int CountLinuxUsers(List<User> users) 
+        // {
+        //     // Add your code here!
+        //     // throw new NotImplementedException();
+        //     return 0;
+        // }
     }
 }

@@ -46,25 +46,25 @@ namespace TechReturners.Tests
             // Assert.Equal("?siht od ot tnaw neve uoy dluow yhw", Exercise001.Reverse("why would you even want to do this?"));
         }
 
-        [Fact]
-        public void CheckCountLinuxUsers()
-        {
-            User u1 = new User("Heather", "Windows 10", "Windows");
-            User u2 = new User("Paul", "Windows 95", "Windows");
-            User u3 = new User("Sheila", "CentOS 7", "Linux");
-            User u4 = new User("Pedro", "Ubuntu 18.04", "Linux");
+        // [Fact]
+        // public void CheckCountLinuxUsers()
+        // {
+        //     User u1 = new User("Heather", "Windows 10", "Windows");
+        //     User u2 = new User("Paul", "Windows 95", "Windows");
+        //     User u3 = new User("Sheila", "CentOS 7", "Linux");
+        //     User u4 = new User("Pedro", "Ubuntu 18.04", "Linux");
             
-            var users = new List<string>();
-            users.Add(u1);
-            users.Add(u2);
+        //     var users = new List<string>();
+        //     users.Add(u1);
+        //     users.Add(u2);
             
-            // Assert.Equal(0, Exercise001.countLinuxUsers(users));
-            // users = new List<string>();
-            // users.Add(u1);
-            // users.Add(u2);
-            // users.Add(u3);
-            // users.Add(u4);
-            // Assert.Equal(2, Exercise001.countLinuxUsers(users));
-        }
+        //     Assert.Equal(0, Exercise001.countLinuxUsers(users));
+        //     users = new List<string>();
+        //     users.Add(u1);
+        //     users.Add(u2);
+        //     users.Add(u3);
+        //     users.Add(u4);
+        //     Assert.Equal(2, Exercise001.countLinuxUsers(users));
+        // }
     }
 }
