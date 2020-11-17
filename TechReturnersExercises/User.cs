@@ -4,10 +4,10 @@ namespace TechReturners {
 
     public class User {
 
-        public User(String username, String operatingSystem, String type) {
-            this.username = username;
-            this.operatingSystem = operatingSystem;
-            this.type = type;
+        public User(string username, string operatingSystem, string type) {
+            Username = username;
+            OperatingSystem = operatingSystem;
+            Type = type;
         }
 
         public string Username 

@@ -8,36 +8,31 @@ namespace TechReturners.Exercises
         public static String CapitalizeWord(String word) 
         {
             // Add your code here!
-            // throw new NotImplementedException();
-            return "Hello";
+            throw new NotImplementedException();
         }
 
         public static String GenerateInitials(String firstName, String lastName) 
         {
             // Add your code here!
-            // throw new NotImplementedException();
-            return "F.B";
+            throw new NotImplementedException();
         }
 
         public static double AddVat(double originalPrice, double vatRate) 
         {
             // Add your code here!
-            // throw new NotImplementedException();
-            return 120;
+            throw new NotImplementedException();
         }
 
         public static String Reverse(String sentence) 
         {
             // Add your code here!
-            // throw new NotImplementedException();
-            return "oof";
+            throw new NotImplementedException();
         }
 
-        // public static int CountLinuxUsers(List<User> users) 
-        // {
-        //     // Add your code here!
-        //     // throw new NotImplementedException();
-        //     return 0;
-        // }
+        public static int CountLinuxUsers(List<User> users) 
+        {
+            // Add your code here!
+            throw new NotImplementedException();
+        }
     }
 }
