@@ -9,7 +9,7 @@ It includes:
 * Looping
 * Initial review of C# objects
 
-In the [Exercise001Test.cs](../src/TechReturnersExercises.Tests/Exercise001Test.cs) file you'll find the tests - work through each test and implement the corresponding function within the [Exercise001.cs](../TechReturnersExercises/Exercise001.cs) file.
+In the [Exercise001Test.cs](../TechReturnersExercises.Tests/Exercise001Test.cs) file you'll find the tests - work through each test and implement the corresponding function within the [Exercise001.cs](../TechReturnersExercises/Exercise001.cs) file.
 
 Don't forget to restore dependencies by running:
 
