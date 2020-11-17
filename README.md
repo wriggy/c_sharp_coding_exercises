@@ -32,7 +32,7 @@ Once you have cloned the repository you can ensure any dependencies are restored
 
     dotnet restore
 
-If you look inside the **Tasks** directory you will find a file of functions to implement.
+If you look inside the **TechReturnersExercises** directory you will find a file of functions to implement.
 
 To understand how these functions work, take a look in the corresponding test file where the desired functionality is described.
 
