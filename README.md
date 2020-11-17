@@ -46,4 +46,4 @@ Work through each test 1 by 1 until you have them all passing. Initially, you'll
 
 # The tasks
 
-You can see the first task in [Exercise001.cs](./TechReturnersExercises/Exercise001.cs)
+You can see the first tasks in [Exercise001.cs](./TechReturnersExercises/Exercise001.cs) and instructions on solving these coding katas in the [docs](./docs)
