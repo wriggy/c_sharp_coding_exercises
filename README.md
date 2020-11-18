@@ -43,7 +43,11 @@ To run the tests, run
 Work through each test 1 by 1 until you have them all passing. Initially, you'll have a lot of failing tests and a lot of output on the console. To focus on a single test, you can run specific tests such as:
     
     dotnet test --filter Exercise001
+    
+Or to run a single test within a test file you can run dotnet test --filter FunctionName like so:
+
+    dotnet test --filter CapitalizeWord
 
 # The tasks
 
-You can see the first tasks in [Exercise001.cs](./TechReturnersExercises/Exercise001.cs) and instructions on solving these coding katas in the [docs](./docs)
+You can see the first tasks in [Exercise001.cs](./TechReturnersExercises/Exercise001.cs) and more information in the [docs](./docs)
