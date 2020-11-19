@@ -1,7 +1,5 @@
-using System;
 using Xunit;
 using TechReturners.Exercises;
-using System.Collections;
 using System.Collections.Generic;
 
 
