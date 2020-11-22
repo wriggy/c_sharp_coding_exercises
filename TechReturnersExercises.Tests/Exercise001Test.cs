@@ -55,8 +55,8 @@ namespace TechReturners.Tests
             var users = new List<User>();
             users.Add(u1);
             users.Add(u2);
-            
             Assert.Equal(0, Exercise001.CountLinuxUsers(users));
+            
             users = new List<User>();
             users.Add(u1);
             users.Add(u2);
