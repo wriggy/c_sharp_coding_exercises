@@ -1,7 +1,6 @@
 using Xunit;
 using TechReturners.Exercises;
 
-
 namespace TechReturners.Tests
 {
     public class Exercise002Test
