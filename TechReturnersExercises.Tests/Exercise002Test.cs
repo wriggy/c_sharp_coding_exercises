@@ -4,7 +4,7 @@ using TechReturners.Exercises;
 namespace TechReturners.Tests
 {
     public class Exercise002Test
-    { 
+    {
         [Fact]
         public void CheckIsFromManchester()
         {
