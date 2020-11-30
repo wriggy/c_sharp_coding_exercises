@@ -6,20 +6,12 @@ namespace TechReturners.Exercises
     {
         public static bool IsFromManchester(Person person)
         {
-            if (person.City == "Manchester")
-            {
-                return true;
-            }
-            return false;
+            return (person.City == "Manchester");
         }
 
         public static bool CanWatchFilm(Person person, int ageLimit)
         {
-            if (person.Age >= ageLimit)
-            {
-                return true;
-            }
-            return false;
+            return (person.Age >= ageLimit);
         }
     }
 }
